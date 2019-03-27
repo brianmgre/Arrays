@@ -10,6 +10,7 @@ typedef struct Array {
 } Array;
 
 
+
 /************************************
  *
  *   CREATE, DESTROY, RESIZE FUNCTIONS
